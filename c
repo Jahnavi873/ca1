@@ -17,14 +17,11 @@ printf("ECE");
 case4:
 {
 printf("Mecanical");
-
-
-
-
-
-
 }
-
+case5:
+{
+printf("BCA");
+}
 
 
 
