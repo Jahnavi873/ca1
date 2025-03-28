@@ -18,3 +18,9 @@ case4:
 {
 printf("Mecanical");
 }
+
+
+
+
+
+}
