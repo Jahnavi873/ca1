@@ -17,4 +17,5 @@ printf("ECE");
 case4:
 {
 printf("Mecanical");
+printf("BCA");
 }
